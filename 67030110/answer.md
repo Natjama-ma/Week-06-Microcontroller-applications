@@ -1,10 +1,13 @@
 # ดูขนาด binary
 
-![alt text](image.png)
+<img width="1535" height="672" alt="Screenshot 2025-08-08 190333" src="https://github.com/user-attachments/assets/e1e5ad24-9dd4-4ba4-b225-9b711b773ae9" />
+
+
 
 
 # บันทึกผลการ simulate
-![alt text](image-1.png)
+
+<img width="1531" height="683" alt="Screenshot 2025-08-08 192929" src="https://github.com/user-attachments/assets/2a6abc24-6888-44e7-8323-6c5ac778aa6f" />
 
 
 
